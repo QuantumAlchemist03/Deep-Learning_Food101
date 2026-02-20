@@ -1,2 +1,7 @@
-# Deep-Learning_Food101
-My Applied Deep Learning coursework portfolio exploring the Food-101 dataset. Implemented baseline MLP, custom CNN, SOM clustering on features, and autoencoder experiments with critical reflection on transfer learning vs training from scratch.
+# Food-101 Deep Learning Portfolio
+
+This repo contains my work for the Applied Deep Learning module coursework (2026).
+- Part A: Baseline MLP following DeepFood paper insights  
+- Part B: Custom CNN architecture  
+- Part C: SOM on CNN-extracted features  
+- Part D: Autoencoder + critical reflection
